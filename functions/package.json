@@ -13,10 +13,10 @@
     "logs": "firebase functions:log"
   },
   "dependencies": {
-    "actions-on-google": "^1.0.0",
+    "actions-on-google": "^1.11.0",
     "firebase-admin": "~5.4.3",
-    "firebase-functions": "^0.7.2",
-    "moment": "^2.19.1"
+    "firebase-functions": "^0.7.5",
+    "moment": "^2.24.0"
   },
   "private": true
 }
